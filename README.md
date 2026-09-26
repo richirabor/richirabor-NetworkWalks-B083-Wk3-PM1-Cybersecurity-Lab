@@ -46,7 +46,7 @@ The main objectives of this project are to:
 
 <p align="center">
   <img src="decrypted_pdf_1.png"
-      alt="Decrypted Password"
+      alt="Decrypted PDF"
       width="800">
 </p>
 
@@ -65,8 +65,18 @@ The main objectives of this project are to:
 ## Evidence 2- Password Cracked
 
 <p align="center">
-  <img src="hash_calculator.png"
+  <img src="password_cracker.png"
       alt="Password Cracked"
+      width="800">
+</p>
+
+---
+
+## Result 2- Decrypted PDF
+
+<p align="center">
+  <img src="decrypted_pdf_1.png"
+      alt="Decrypted PDF"
       width="800">
 </p>
 
