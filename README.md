@@ -75,9 +75,41 @@ The main objectives of this project are to:
 ## Result 2- Decrypted PDF
 
 <p align="center">
-  <img src="decrypted_pdf_1.png"
+  <img src="cracked_pdf.png"
       alt="Decrypted PDF"
       width="800">
 </p>
 
 ---
+
+## 🔗 Tools & Resources
+
+---
+
+## John the Ripper: 
+John GUI - https://openwall.info/wiki/john/johnny
+
+PDF Hash Extraxtor - https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
+
+## NetworkWalks Tools: 
+Hash Calculator - https://networkwalks.com/hash-calculator/
+
+Password Cracker - https://networkwalks.com/password-cracker/
+                    
+---
+
+## 👤 Author
+
+---
+
+Irabor Richard Ehis
+
+Cybersecurity Internship B083
+
+LinkedIn: https://www.linkedin.com/in/richard-ehis-irabor-46b8899b/
+
+---
+
+## 📌 Project Information
+
+Program Name: Cybersecurity at Networkwalks | Week: 03 | Project: Password Cracking Using JTR and Free Tool | Repository: GitHub
