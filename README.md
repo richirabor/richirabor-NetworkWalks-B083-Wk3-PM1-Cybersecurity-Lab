@@ -24,8 +24,8 @@ The main objectives of this project are to:
 ## Evidence 1- Hash Extractor Using JTR
 
 <p align="center">
-  <img src="https://github.com/richirabor/NetworkWalks-B083-Wk1-PM1-Cybersecurity-Lab-SETUP/blob/main/Virtual_Box%20setting-%20Network.png"
-      alt="NATNetwork Setup"
+  <img src="hash_crack_process.png"
+      alt="Hash Extractor"
       width="800">
 </p>
 
