@@ -44,7 +44,7 @@ The main objectives of this project are to:
 ## Result 1- Decrypted PDF
 
 <p align="center">
-  <img src="decrypted_pw_john.png"
+  <img src="decrypted_pdf_1.png"
       alt="Decrypted Password"
       width="800">
 </p>
