@@ -55,8 +55,18 @@ The main objectives of this project are to:
 ## Evidence 1- Hash Calculator
 
 <p align="center">
-  <img src="decrypted_pdf_1.png"
-      alt="Decrypted Password"
+  <img src="hash_calculator.png"
+      alt="Hash Calculator"
+      width="800">
+</p>
+
+---
+
+## Evidence 2- Password Cracked
+
+<p align="center">
+  <img src="hash_calculator.png"
+      alt="Password Cracked"
       width="800">
 </p>
 
