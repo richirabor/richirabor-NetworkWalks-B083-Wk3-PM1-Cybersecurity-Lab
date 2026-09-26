@@ -30,3 +30,23 @@ The main objectives of this project are to:
 </p>
 
 ---
+
+## Evidence 2- Decrypted Password Using JTR
+
+<p align="center">
+  <img src="decrypted_pw_john.png"
+      alt="Decrypted Password"
+      width="800">
+</p>
+
+---
+
+## Result 1- Decrypted PDF
+
+<p align="center">
+  <img src="decrypted_pw_john.png"
+      alt="Decrypted Password"
+      width="800">
+</p>
+
+---
