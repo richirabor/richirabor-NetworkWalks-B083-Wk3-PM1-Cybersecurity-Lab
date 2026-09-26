@@ -19,8 +19,9 @@ The main objectives of this project are to:
 - Use the Hash calculator to unlock the PDF and extract the password.
 
 
-## Evidence and Results 
-
+# Evidence and Results 
+---
+# Password Cracking Using JTR
 ## Evidence 1- Hash Extractor Using JTR
 
 <p align="center">
@@ -42,6 +43,16 @@ The main objectives of this project are to:
 ---
 
 ## Result 1- Decrypted PDF
+
+<p align="center">
+  <img src="decrypted_pdf_1.png"
+      alt="Decrypted Password"
+      width="800">
+</p>
+
+---
+# Password Cracking Using NetworkWalks Tools
+## Evidence 1- Hash Calculator
 
 <p align="center">
   <img src="decrypted_pdf_1.png"
